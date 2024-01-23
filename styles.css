@@ -92,3 +92,10 @@ p{
    padding: 0;
 }
 
+#sidebar li{
+   padding: 6px;
+   margin-bottom: 10px;
+   background-color: #10A2FF;
+   color: #ffffff;
+}
+

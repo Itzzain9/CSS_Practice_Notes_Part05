@@ -42,3 +42,9 @@ p.two{
    border: 2px solid orange;
    margin-left: 20%;
 }
+
+p.three{
+   border: 2px solid orange;
+   margin-left: auto;
+}
+

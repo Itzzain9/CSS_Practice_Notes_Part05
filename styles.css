@@ -118,3 +118,10 @@ ul {
    padding: 5px;
 }
 
+ul {
+   list-style-type: none;
+   margin: 5px;
+   padding: 5px;
+   width: 2020px;
+}
+

@@ -108,3 +108,13 @@ p{
 #main-body{
    overflow: auto;
 }
+
+
+/* Navigation bar */
+/* Vertical Navbar */
+ul {
+   list-style-type: none;
+   margin: 10px;
+   padding: 5px;
+}
+

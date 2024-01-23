@@ -48,3 +48,9 @@ p.three{
    margin-left: auto;
 }
 
+/* Css Pading */
+p.one{
+   border: 5px solid rgb(177, 19, 98);
+   padding-left: 30px;
+}
+

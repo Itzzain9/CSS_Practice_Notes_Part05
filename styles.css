@@ -59,3 +59,8 @@ p.two{
    padding-left: 20%;
 }
 
+p.three{
+   border: 5px solid hotpink;
+   padding-left: auto;
+}
+

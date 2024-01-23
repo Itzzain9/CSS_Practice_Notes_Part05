@@ -105,3 +105,6 @@ p{
    padding: 10px;
 }
 
+#main-body{
+   overflow: auto;
+}

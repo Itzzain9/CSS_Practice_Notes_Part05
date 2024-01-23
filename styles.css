@@ -31,3 +31,9 @@ p{
    /* border: 2px solid red; */
    border-radius: 5px;
 }
+
+/* Css Margin */
+p.one{
+   border: 2px solid orange;
+   margin-left: 30px;
+}

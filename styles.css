@@ -20,3 +20,8 @@ p{
    border-bottom-style: dotted;
    border-left-style: solid;
 }
+
+
+p{
+   border-style: dotted solid double dashed;
+}

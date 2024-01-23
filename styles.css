@@ -73,3 +73,8 @@ p{
    outline-offset: 15px;
 }
 
+/* Css Float */
+#header,#footer{
+   background-color: #EEEEEE;
+   padding: 15px;
+}

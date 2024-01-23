@@ -54,3 +54,8 @@ p.one{
    padding-left: 30px;
 }
 
+p.two{
+   /* border: 5px solid hotpink; */
+   padding-left: 20%;
+}
+

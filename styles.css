@@ -37,3 +37,8 @@ p.one{
    border: 2px solid orange;
    margin-left: 30px;
 }
+
+p.two{
+   border: 2px solid orange;
+   margin-left: 20%;
+}

@@ -64,3 +64,12 @@ p.three{
    padding-left: auto;
 }
 
+/* Outline Offset */
+p{
+   margin: 30px;
+   background-color: yellow;
+   border: 1px solid black;
+   outline: red;
+   outline-offset: 15px;
+}
+
